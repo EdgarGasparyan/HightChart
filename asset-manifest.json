@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HightChart/static/css/main.8b12eecf.css",
+    "main.js": "/HightChart/static/js/main.ef817590.js",
+    "static/js/787.c775bffc.chunk.js": "/HightChart/static/js/787.c775bffc.chunk.js",
+    "index.html": "/HightChart/index.html",
+    "main.8b12eecf.css.map": "/HightChart/static/css/main.8b12eecf.css.map",
+    "main.ef817590.js.map": "/HightChart/static/js/main.ef817590.js.map",
+    "787.c775bffc.chunk.js.map": "/HightChart/static/js/787.c775bffc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b12eecf.css",
+    "static/js/main.ef817590.js"
+  ]
+}
